@@ -1,7 +1,7 @@
 <?php
- define('DB_SERVER', 'us-cdbr-iron-east-01.cleardb.net');
+ define('DB_SERVER', 'us-cdbr-iron-east-01.cleardb.net:3306');
 define('DB_USERNAME', 'b4dd80b69110f3');
-define('DB_PASSWORD', 'e95aa0d2@us');
+define('DB_PASSWORD', 'e95aa0d2');
 define('DB_DATABASE', 'heroku_c2e9edb2ae8e855');
 
 //  define('DB_USERNAME', 'admin');
