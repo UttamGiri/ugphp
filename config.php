@@ -18,13 +18,13 @@ if (!$db)
 //     die('Unable to connect: ' .  mysqli_connect_error());
 }
 
-echo "Success: A proper connection to MySQL was made! The my_db database is great." . PHP_EOL;
-echo "Host information: " . mysqli_get_host_info($link) . PHP_EOL;
+// echo "Success: A proper connection to MySQL was made! The my_db database is great." . PHP_EOL;
+// echo "Host information: " . mysqli_get_host_info($link) . PHP_EOL;
 // mysql://b4dd80b69110f3:e95aa0d2@us-cdbr-iron-east-01.cleardb.net/heroku_c2e9edb2ae8e855?reconnect=true
 //Access denied for user 'b4dd80b69110f3'@'ec2-54-165-50-141.compute-1.amazonaws.com' (using password: YES)
-$servername = "127.0.0.1";
-$username = "sahrmila";
-$password = "ban";
+// $servername = "127.0.0.1";
+// $username = "sahrmila";
+// $password = "ban";
 
 // try {
 //     $db = new PDO("mysql:host=$servername;dbname=ugphpdatabase", $username, $password);
